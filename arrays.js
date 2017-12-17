@@ -10,7 +10,7 @@ var chocolateBars = [
   }
   
   function destructivelyAddElementToBeginningOfArray(arr, el) {
-    console.debugger(a.unshift(el));
+    console.debugger(arr.unshift(el));
     return ;
   }
   
